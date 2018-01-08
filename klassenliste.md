@@ -15,7 +15,7 @@
 |Julian  |        |
 |Kabilan |        |
 |Mattias |        |
-|Michel  |        |
+|Michel  |    x    |
 |Mirco   |        |
 |Nico    |        |
 |Nowlan  |        |
